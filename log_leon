@@ -1,0 +1,97 @@
+LOG datamap project - Leon
+
+08-11-17
+
+9:30 initial meeting
+11:00 setting up folder structure & learning git
+<<<<<<< HEAD
+12:30 look at character-level RNN implementation
+13:00
+
+09-11-17
+
+16:30 learning git
+16:50 look at tensorflow implementation of LSTM:
+	https://www.tensorflow.org/tutorials/recurrent
+	http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+	http://colah.github.io/posts/2014-07-Conv-Nets-Modular/
+	http://colah.github.io/posts/2014-07-Understanding-Convolutions/
+18:30
+
+10-11-17
+
+11:00 implementing lstm from scratch:
+	https://github.com/nicodjimenez/lstm/blob/master/lstm.py
+	https://theclevermachine.wordpress.com/2014/09/08/derivation-derivatives-for-common-neural-network-activation-functions/
+12:00 look at GDPR data types
+12:30 create prioritisation table
+13:30
+
+14:45 prioritisation table
+16:00 strategy 1
+17:00 research
+	https://en.wikipedia.org/wiki/Ontology_%28information_science%29
+	https://hackernoon.com/wtf-is-a-knowledge-graph-a16603a1a25f
+19:20
+
+14-11-17
+
+13:00 meeting 2 with Thomas & Toon
+	https://medium.com/@acrosson/extracting-names-emails-and-phone-numbers-5d576354baa
+13:30
+
+15-11-17
+
+15:30 setting up python environment
+
+16:30
+
+16-11-17
+12:30 fighting my computer
+13:45 trying out the code from above
+14:30 research into NER
+	http://www.opener-project.eu/project/performance/ - dutch, french, english, german
+		language recognition
+		tokeniser
+		NER
+	NLTK does not support languages other than English
+	other multi-lingual POS tagger:
+	
+	http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/
+	http://rdrpostagger.sourceforge.net/
+15:30 break
+16:00 learn regex
+	https://www.regular-expressions.info/quickstart.html
+
+17:00
+
+17-11-17
+12:20 create regular expressions
+	https://regex101.com/r/dzDqmM/1
+		regex checker
+	http://www.xe.com/ibancalculator/sample/?ibancountry=belgium
+		bank formats for belgium
+	regexs done
+13:00
+14:00 writing extraction functions
+	https://opendata.stackexchange.com/questions/4517/obtaining-personal-mail-corpus
+		where to find email corpora
+16:00 writing sample generation functions
+17:00 testing extraction funcitons on sample
+	PROBLEMS
+	- failed to import functions 
+		works now for some reason
+	- standardising results in a fail
+		solved by changing one regex so that it does not return groups
+	- regular expressions may not be specific enough
+18:00 creating a text file from the whole enron cache
+	PROBLEM
+	- UnicodeDecodeError: 'utf-8' codec can't decode byte
+		added unidecoder now but it still doesn't work
+19:10
+	
+
+
+
+
+
