@@ -9,5 +9,7 @@ Created on Fri Nov 17 18:02:45 2017
 #if __name__ == "main":
 from generate_write_sample import generate_sample, write_sample_to_file
 from return_IDs import return_numbers, return_IDs
-    
-write_sample_to_file('/home/leon/Desktop/enron_mail/maildir/', '/home/leon/Desktop/enron_mail/enron_fulltext')
+
+for x in range(1,27,1):
+
+	write_sample_to_file('/home/leon/Desktop/enron_mail/batch'+ str(x), '/home/leon/Desktop/enron_mail/text_batch' + str(x))

@@ -1,0 +1,7 @@
+Named Entity Recogniser
+	1. Narrow Regex
+	2. More general Regex
+		additionally estimate likelihood of being target based on regex match context?
+	3. Name recogniser
+
+

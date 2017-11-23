@@ -88,7 +88,41 @@ LOG datamap project - Leon
 	PROBLEM
 	- UnicodeDecodeError: 'utf-8' codec can't decode byte
 		added unidecoder now but it still doesn't work
-19:10
+19:10 fight git
+19:20
+	
+21-11-17 - notes
+
+Mixture of softmaxes
+http://smerity.com/articles/2017/mixture_of_softmaxes.html
+https://arxiv.org/pdf/1711.03953.pdf
+
+22-11-17
+13:00 clarifying strategy
+13:20 dealing with utf-8 decoding error in generate_write_sample.py
+14:30 extract text from enron corpus
+14:45 review regular expressions
+15:50 break
+16:20 ran out of RAM in file building process
+16:30 found ncdu to assess disk usage of a folder
+16:40 researching distributed representations of documents
+	overview, but not for vector space models: The State of the Art in Semantic Representation
+	fancy: Hierarchical Attention Networks for Document Classification - http://www.aclweb.org/anthology/N16-1174
+	fast: Bag of Tricks for Efficient Text Classification
+18:00 dividing enron_mail into batches
+18:00 further research into fastText
+	https://www.analyticsvidhya.com/blog/2017/07/word-representations-text-classification-using-fasttext-nlp-facebook/
+18:55 updating regexs in python file
+19:00
+
+23-11-17
+10:50 continue creation of text files from enron dataset
+10:55 adding custom customer ID regex input to return_IDs.py
+11:50 rewriting the whole return_IDs.py to be more modular
+13:30 break
+14:05 debugging rewritten return_IDs.py
+15:00 
+
 	
 
 
