@@ -1,0 +1,21 @@
+code
+	deprecated - files that are not useful any longer/need editing before they can be used again
+	historical - files not needed anymore
+	-return_IIDs.py - NEW functions to return IIDs in a text file with regular expressions
+	-return_names.py - functions to return the name in a text file with POS tags
+	-sandbox_17-11-29 - Thomas' sandbox file on that date
+planning
+	specification
+		-firstSlides.png - image of GDPR relevant data & categorisation
+	-data_type_prioritisation.ods - overview of data types in firstSlides.png and their characteristics
+	-enron_folder_sizes - sizes of the directories in enron_mail/maildir/
+	-formats_identifying_info - formats of IIDs and regular expressions designed to capture them
+	-project_outline.png - overall project as presented by Thomas on the 24/11/17
+	-solution_strategy_1_10-11-17.docx as envisaged by Leon
+research - research articles
+resources - practical resources
+	-locations - where to find various resources
+samples - sample text
+-log_leon - log of Leons activities
+-master - overview of files in the project
+

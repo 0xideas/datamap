@@ -1,0 +1,10 @@
+publicly available pre-trained word embeddings: 	Yoshua Bengio, Rejean Ducharme, Pascal Vincent, and Christian Jauvin. 2003. A neural probabilistic language model. Journal of Machine Learning Research, 3(Feb):1137–1155.
+skip-n-gram, a variation of word2vec that accounts for word order:	Wang Ling, Lin Chu-Cheng, Yulia Tsvetkov, Silvio Amir, Ramon Fernandez Astudillo, Chris Dyer, Alan W Black, and Isabel Trancoso. 2015a. Not all contexts are created equal: Better word representations with variable attention. In Proc. EMNLP.
+NER models from the CMU paper:	The code of the LSTM-CRF and Stack-LSTM NER systems are available at https://github.com/glample/tagger and https://github.com/clab/stack-lstm-ner
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+0. Find documentation on IID formats in relevant countries and construct regular expressions to match them, and as narrowly as possible
+1. write a comprehensive extract_text function that takes in a path and returns a string for a wide range of document types
+2 create CLI or visual interface
+3. build a corpus to train a fasttext classifier to classify paragraph topic
+4. train fasttext classifier on corpus and include fasttext topic classification in the output for each paragraph
+5. build a corpus of documents for sensitivity detection
+6. apply our program to find iids and classify topics for individual paragraphs
+7. read in program output and featurise, e.g. the number of iids found in each paragraph. Write these to new table
+8. train machine learning algorithms on that dataset and compare. Pick the best one
+9. include sensitivity detection in the main program
+
+10. Find ways to automate steps 4. to 9. to adapt the program to different applications as needed.

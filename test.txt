@@ -1,0 +1,20 @@
+paths to files in /home/leon/live/datamap//home/leon/live/datamap/code/
+/home/leon/live/datamap/marouan/
+/home/leon/live/datamap/resources/
+/home/leon/live/datamap/sample/
+/home/leon/live/datamap/output/
+/home/leon/live/datamap/.idea/
+/home/leon/live/datamap/research/
+/home/leon/live/datamap/.git/
+/home/leon/live/datamap/planning/
+/home/leon/live/datamap/__pycache__/
+/home/leon/live/datamap/codemarouan/
+/home/leon/live/datamap/codedeprecated/
+/home/leon/live/datamap/codeoutput/
+/home/leon/live/datamap/codehistoric/
+/home/leon/live/datamap/codethomas/
+/home/leon/live/datamap/codeoutput2/
+/home/leon/live/datamap/code__pycache__/
+/home/leon/live/datamap/code/thomas__pycache__/
+/home/leon/live/datamap/planningno longer needed/
+/home/leon/live/datamap/planningspecification/
